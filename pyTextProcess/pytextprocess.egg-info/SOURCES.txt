@@ -1,0 +1,14 @@
+setup.py
+pytextprocess/__init__.py
+pytextprocess/extracter.py
+pytextprocess/lemmatizer.py
+pytextprocess/preprocesser.py
+pytextprocess/replacer.py
+pytextprocess/tag_util.py
+pytextprocess/tagger.py
+pytextprocess/tokenizer.py
+pytextprocess.egg-info/PKG-INFO
+pytextprocess.egg-info/SOURCES.txt
+pytextprocess.egg-info/dependency_links.txt
+pytextprocess.egg-info/not-zip-safe
+pytextprocess.egg-info/top_level.txt
